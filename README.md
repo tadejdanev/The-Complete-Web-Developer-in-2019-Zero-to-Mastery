@@ -6,9 +6,15 @@ These are projects I've created while following along the "The Complete Web Deve
 Projects List
 
 Robot friend:
+
 Single-page website:
+
 Image gallery:
+
 Startup landing page:
+
 Shopping List:
+
 Background Generator:
+
 KeyboardEvent Test:
